@@ -14,4 +14,4 @@
 #api-config.yml
 #api-secret.yml
 
-#app.js and Dockerfile is attached too used for creating node app image
+#app.js and Dockerfile are added too (used for creating node app image)
